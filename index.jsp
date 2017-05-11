@@ -4,12 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>include test骂了各级</title>
+<title>include test妈了个机</title>
 </head>
 <body>
 <!-- malegeji -->
-	<%@ include file="a.txt" %>
-	this is my first web project!你在说什么
+	this is my first web project!你在说什么，什么都觉得
 	<%!
 		String str = "hdscbiab";
 	%>
@@ -23,6 +22,5 @@
 <%
 	out.println("num="+num);//也是醉了
 %>
-<jsp:include page="hello2.jsp"></jsp:include>
 </body>
 </html>
